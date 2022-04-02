@@ -1,4 +1,4 @@
-# kubernetes-Production
+# K8s-Production
 
 A repository to keep resources and configuration files used with my Kubernetes production .
 
